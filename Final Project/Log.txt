@@ -1,0 +1,41 @@
+Kidus Yenew withdraw 100 Mon Feb 03 05:49:25 2020
+account was created for "bruik tilahun" Mon Feb 03 11:01:19 2020
+Kidus Yenew withdraw 1000 birr Mon Feb 03 11:05:28 2020
+Kidus Yenew withdraw 1000 birr Mon Feb 03 11:06:41 2020
+Kidus Yenew withdraw 1000 birr Mon Feb 03 11:08:19 2020
+Kidus Yenew transfered 1000 birr to Bruk Mekonnen Mon Feb 03 11:08:19 2020
+Kidus Yenew changed pin to 1111 Mon Feb 03 11:09:07 2020
+Kidus Yenew changed pin to 1111 Mon Feb 03 11:09:39 2020
+Kidus Yenew deposit 1000 birr Mon Feb 03 11:11:45 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:34:20 2020
+Kidus Yenew transfered 100 birr to Bruk Mekonnen Mon Feb 03 16:34:20 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:35:14 2020
+Kidus Yenew transfered 100 birr to Kidus Yenew Mon Feb 03 16:35:14 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:36:05 2020
+Kidus Yenew transfered 100 birr to Bruk Mekonnen Mon Feb 03 16:36:05 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:51:18 2020
+Kidus Yenew transfered 100 birr to Bruk Mekonnen Mon Feb 03 16:51:18 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:52:13 2020
+Kidus Yenew transfered 100 birr to Bruk Mekonnen Mon Feb 03 16:52:13 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:53:13 2020
+Kidus Yenew transfered 100 birr to Bruk Mekonnen Mon Feb 03 16:53:13 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:54:54 2020
+Kidus Yenew transfered 100 birr to Bruk Mekonnen Mon Feb 03 16:54:54 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:57:32 2020
+100 birr was deposited to Bruk Mekonnen Mon Feb 03 16:57:32 2020
+Kidus Yenew withdraw 100 birr Mon Feb 03 16:59:31 2020
+Kidus Yenew deposit 1000 birr Mon Feb 03 16:59:37 2020
+Kidus Yenew withdraw 1000 birr Mon Feb 03 16:59:56 2020
+1000 birr was deposited to Abenezer Yoseph Mon Feb 03 16:59:56 2020
+Kidus Yenew changed pin to 1234 Mon Feb 03 17:00:14 2020
+account was created for "ki tr" Sat Jan 15 23:52:38 2022
+ki tr withdraw 300 birr Sat Jan 15 23:53:23 2022
+ki tr withdraw 1000 birr Sat Jan 15 23:53:45 2022
+1000 birr was deposited to Kidus Yenew Sat Jan 15 23:53:45 2022
+ki tr deposit 1000 birr Sat Jan 15 23:54:16 2022
+account was created for "kiii iuyt" Sat Jan 15 23:56:20 2022
+Kidus Yenew withdraw 10 birr Sat Jan 15 23:58:48 2022
+Kidus Yenew deposit 1000 birr Sat Jan 15 23:58:55 2022
+Kidus Yenew withdraw 600 birr Sat Jan 15 23:59:14 2022
+600 birr was deposited to Getasil Desalegn Sat Jan 15 23:59:14 2022
+Kidus Yenew changed pin to 4321 Sat Jan 15 23:59:41 2022

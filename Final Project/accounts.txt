@@ -1,0 +1,14 @@
+1000 4321 7470 Kidus Yenew
+1001 1244 7103 Bruk Mekonnen
+1002 1254 4320 Samuel Solomon
+1003 1264 3710 Getasil Desalegn
+1004 1274 2000 Abenezer Yoseph
+1005 1284 6000 Ermias Girma
+1006 1294 4000 Dawit Woldeyesus
+1007 1304 9663 Atalel Tezazu
+1008 1314 758 Haileleul Girma
+1009 1324 859.5 Bedas Hika
+1010 1334 2458 Goytom G/Igziabher
+1011 1344 300 Natnael Solomon
+1012 1354 1534 Getahun Mengiste
+1013 1364 2354 Michael Melaku
